@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black-Scholes Option Pricing Calculator
 
 This project provides an interactive calculator for pricing European options using the **Black-Scholes Model**. Built with **Python** and **Streamlit**, it allows users to calculate option prices and their Greeks (Delta, Gamma, Theta, Vega, and Rho), and visualize how these metrics change with different spot prices.
@@ -63,3 +64,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 - This app was built by **Vinay Singh Yadav**.
 - The **Black-Scholes Model** is a widely used model for pricing European options in financial markets.
 
+=======
+# black-scholes-model-vsy
+>>>>>>> 2e4394e (Merge main into master and resolve conflicts)
