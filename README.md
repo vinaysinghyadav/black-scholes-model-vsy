@@ -34,3 +34,32 @@ To run the application, use the following command in your terminal:
 ```bash
 streamlit run app.py
 ```
+## Input Parameters
+
+The user needs to input the following parameters:
+
+- **Risk-Free Rate (r)**: The risk-free interest rate (e.g., 3% as `0.03`).
+- **Spot Price (S)**: The current market price of the underlying asset.
+- **Strike Price (K)**: The strike price of the option.
+- **Time to Expiry (T)**: The time until the option expires, in years.
+- **Volatility (σ)**: The volatility of the underlying asset (annualized standard deviation).
+- **Option Type**: Choose between **Call** or **Put** options.
+
+## Results
+
+After entering the parameters, the app will display the following results:
+
+- **Option Price**: The Black-Scholes price for the selected option type.
+- **Greeks**: The **Delta**, **Gamma**, **Theta**, **Vega**, and **Rho** for the given option.
+- **Visualizations**: Graphs showing the option price and Greeks for different spot prices.
+
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+## Acknowledgments
+
+- This app was built by **Vinay Singh Yadav**.
+- The **Black-Scholes Model** is a widely used model for pricing European options in financial markets.
+
