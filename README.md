@@ -64,6 +64,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 - This app was built by **Vinay Singh Yadav**.
 - The **Black-Scholes Model** is a widely used model for pricing European options in financial markets.
 
-=======
-# black-scholes-model-vsy
->>>>>>> 2e4394e (Merge main into master and resolve conflicts)
+
